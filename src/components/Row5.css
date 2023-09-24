@@ -1,0 +1,33 @@
+.row5{
+    background-color: #cfcfcf;
+    width:100%;
+    margin:0 auto;
+  }
+  
+  .row5 h1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+  }
+
+  .about-me-content{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width:80%;
+    margin:0 -10px
+  }
+
+  .personal_tab{
+    flex: 0 0 calc(50% - 30px);
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin:0 50px;
+  }
+
+  .tab2{
+    color: #ffffff;
+  }
+  

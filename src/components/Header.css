@@ -1,0 +1,27 @@
+.row1{
+    height: 200px;
+    display: flex;
+    background-color: #cfcfcf;
+  }    
+  
+  .row1_image{
+    width: 50%;
+  }
+
+  .row1_image img{
+    border-radius: 30%;   
+    margin: 15px; 
+    padding: 15px;
+  }
+  
+  .row1_data{
+    width: 50%;
+    text-align: right;
+    margin-right: 100px;
+  }
+  
+  .row1_data p{
+    font-size: 20px;
+    line-height: 5px;
+    font-weight: bold;
+  }
